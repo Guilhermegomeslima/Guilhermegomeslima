@@ -2,21 +2,21 @@
 
 ## Desenvolvedor em aprendizado | Apaixonado por Linux, tecnologia e história
 
-Olá! Meu nome é Guilherme, sou um estudante de Análise e Desenvolvimento de Sistemas pela FAMINAS. Sou apaixonado por programação, Linux e história. Tenho o sonho de criar meu próprio sistema operacional e busco constantemente aprender e aprimorar minhas habilidades, principalmente na criação de sites.
+Olá! Meu nome é Guilherme, sou um estudante de Análise e Desenvolvimento de Sistemas pela OneBitCode. Sou apaixonado por programação, Linux e história. Tenho o sonho de criar meu próprio sistema operacional e busco constantemente aprender e aprimorar minhas habilidades.
 
 ## Competências
 
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg)
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
 
 ## Ferramentas
 
-![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg)
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)
-![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg)
-![Ubuntu](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" />
 
 ## Projetos
 
@@ -29,4 +29,3 @@ Sonho em trabalhar como programador e contribuir para projetos inovadores. No fu
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/guilhermegomes-dev/)
-
