@@ -1,6 +1,10 @@
 <div style="display: flex; align-items: center;">
-  <!-- Imagem de Perfil -->
-  <img src="URL_DA_SUA_FOTO" width="150" height="150" style="border-radius: 50%; margin-right: 20px;" alt="Minha Foto" />
+  <!-- Imagem Arredondada -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain.svg" width="50" height="50" style="border-radius: 50%; margin-right: 10px;" alt="Ícone Devicon" />
+
+  <!-- Texto -->
+  <h1>GuilhermeGL_Dev</h1>
+</div>
 
   <!-- Texto de Introdução -->
   <div>
