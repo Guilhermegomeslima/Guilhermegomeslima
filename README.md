@@ -3,7 +3,7 @@
 ## Desenvolvedor em aprendizado | Apaixonado por Linux, tecnologia e história  
 
 ### Sobre Mim  
-Olá Meu nome é Guilherme, sou um estudante de **Análise e Desenvolvimento de Sistemas pela FAMINAS. Sou apaixonado por programação, Linux e história. Tenho o sonho de criar meu próprio sistema operacional e busco constantemente aprender e aprimorar minhas habilidades.  
+Olá Meu nome é Guilherme, sou um estudante de Análise e Desenvolvimento de Sistemas pela FAMINAS. Sou apaixonado por programação, Linux e história. Tenho o sonho de criar meu próprio sistema operacional e busco constantemente aprender e aprimorar minhas habilidades.  
 
 ---
 
