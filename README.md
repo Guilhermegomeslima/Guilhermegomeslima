@@ -1,8 +1,5 @@
 # GuilhermeGL_Dev  
 
-![Devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain.svg)
-
-
 ## Desenvolvedor em aprendizado | Apaixonado por Linux, tecnologia e história  
 
 ### Sobre Mim  
