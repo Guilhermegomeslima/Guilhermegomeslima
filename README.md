@@ -28,8 +28,8 @@ Olá Meu nome é Guilherme, sou um estudante de Análise e Desenvolvimento de Si
 ---
 
 ### Projetos  
-[Meu Projeto: A Chave para o Combate às Queimadas](https://guilhermegomeslima.github.io/Projeto-a-chave-para-o-combate-s-queimadas/)  
-
+[Meu projeto: A Chave para o Combate às Queimadas](https://guilhermegomeslima.github.io/Projeto-a-chave-para-o-combate-s-queimadas/)  
+[Meu projeto: Minecraft fanmade site](https://guilhermegomeslima.github.io/minecraftfansite/)
 ---
 
 ### Objetivo  
