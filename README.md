@@ -40,4 +40,4 @@ Sonho em trabalhar como programador e contribuir para projetos inovadores. No fu
 ### Contato  
 [Meu LinkedIn](https://www.linkedin.com/in/guilhermegomes-dev/)  
 [Meu Instagram](https://instagram.com/guilhermegl.dev)
-{Meu Linktree](https://linktr.ee/guilhermegl.sites)
+[Meu Linktree](https://linktr.ee/guilhermegl.sites)
