@@ -35,6 +35,8 @@ Olá Meu nome é Guilherme, sou um estudante de Análise e Desenvolvimento de Si
 
 [Meu projeto: Metal Gear Infoblog](https://guilhermegomeslima.github.io/Metal-Gear-Infoblog/)
 
+[Meu projeto: BloomTech Gardens](https://guilhermegomeslima.github.io/BloomTech-Gardens/)
+
 ---
 
 ### Objetivo  
