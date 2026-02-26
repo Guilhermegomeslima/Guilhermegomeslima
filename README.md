@@ -29,6 +29,8 @@ Olá Meu nome é Guilherme, sou um estudante de Análise e Desenvolvimento de Si
 
 ### Projetos  
 
+[Meu projeto: Ludoteca Pessoal](https://guilhermegomeslima.github.io/ludoteca-digital-pessoal/)
+
 [Meu projeto: A Chave para o Combate às Queimadas](https://guilhermegomeslima.github.io/Projeto-a-chave-para-o-combate-s-queimadas/)  
 
 [Meu projeto: Minecraft fanmade site](https://guilhermegomeslima.github.io/minecraftfansite/)
@@ -47,6 +49,6 @@ Sonho em trabalhar como programador e contribuir para projetos inovadores. No fu
 ### Contato  
 [Meu LinkedIn](https://www.linkedin.com/in/guilhermegomes-dev/)  
 
-[Meu Instagram](https://instagram.com/guilhermegl.dev)
+[Meu Instagram](https://www.instagram.com/guilherme.glmg?igsh=dHJ6aHZwMTJyOTN2)
 
 [Meu Linktree](https://linktr.ee/guilhermegl.sites)
