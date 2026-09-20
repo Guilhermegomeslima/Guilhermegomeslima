@@ -38,7 +38,7 @@ Olá Meu nome é Guilherme, sou um estudante de Análise e Desenvolvimento de Si
 
 [Meu projeto: Minecraft fanmade site](https://guilhermegomeslima.github.io/minecraftfansite/)
 
-[Meu projeto: Metal Gear Infoblog](https://guilhermegomeslima.github.io/Metal-Gear-Infoblog/)
+[Meu projeto: Exercícios de java](https://github.com/Guilhermegomeslima/exercicios-java)
 
 [Meu projeto: BloomTech Gardens](https://guilhermegomeslima.github.io/BloomTech-Gardens/)
 
